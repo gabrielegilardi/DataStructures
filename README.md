@@ -1,6 +1,6 @@
 # Basic Data Structures
 
-Classes for basic data structures (stack, queue, priority queue, binary heap, single-linked list, double-linked list).
+Stack, queue, priority queue, binary heap, single-linked list, double-linked list.
 
 ## Reference
 
